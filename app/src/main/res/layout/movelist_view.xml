@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="desantisenterprise.ascabcapoeirahub.HomeActivity">
+    <Button
+        android:text="Test Collection"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:id="@+id/testCollectionButton"
+        android:padding="16dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="normal|bold"
+        android:gravity="fill_vertical"
+        android:textIsSelectable="false"
+        android:background="@android:color/white"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Random Sequence"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:id="@+id/randomSequenceButton"
+        android:padding="16dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="normal|bold"
+        android:gravity="fill_vertical"
+        android:textIsSelectable="false"
+        android:background="@android:color/white"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Favorites"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/favoritesButton"
+        android:padding="16dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="normal|bold"
+        android:gravity="fill_vertical"
+        android:textIsSelectable="false"
+        android:background="@android:color/white"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="BlackList"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/blackListButton"
+        android:padding="16dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="normal|bold"
+        android:gravity="fill_vertical"
+        android:textIsSelectable="false"
+        android:background="@android:color/white"
+        android:layout_alignParentStart="true" />
+</LinearLayout>

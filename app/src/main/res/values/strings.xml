@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ASCAB Capoeira HUB</string>
+    <string name="gray_list">Gray</string>
+    <string name="green_list">Green</string>
+    <string name="yellow_list">Yellow</string>
+    <string name="blue_list">Blue List</string>
+    <string name="green_yellow_list">Green/Yellow</string>
+    <string name="green_blue_list">Green/Blue</string>
+    <string name="yellow_blue_list">Yellow/Blue</string>
+    <string name="other_list">Other</string>
+    <string name="beltPrompt">Belt Lists:</string>
+    <string name="numberPrompt"></string>
+    <string name="copy_right">Copyrights © %1$d</string>
+    <string name="numberHint">Sequence Length:</string>
+    <string name="randomSeq">placeholder</string>
+    <string name="title_activity_family">Map</string>
+
+</resources>

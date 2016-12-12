@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:text="@string/beltPrompt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/numberPrompt" />
+
+    <CheckBox
+        android:text="Gray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/grayCheck"
+        android:layout_weight="0.11" />
+
+    <CheckBox
+        android:text="Green"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/greenCheck"
+        android:layout_weight="0.07" />
+
+    <CheckBox
+        android:text="Yellow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/yellowCheck"
+        android:layout_weight="0.10" />
+
+    <CheckBox
+        android:text="Blue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/blueCheck"
+        android:layout_weight="0.10" />
+
+    <CheckBox
+        android:text="Green Yellow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/greenYellowCheck"
+        android:layout_weight="0.12" />
+
+    <CheckBox
+        android:text="Green Blue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/greenBlueCheck"
+        android:layout_weight="0.12" />
+
+    <CheckBox
+        android:text="Yellow Blue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/yellowBlueCheck"
+        android:layout_weight="0.12" />
+
+    <CheckBox
+        android:text="Other"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/otherCheck"
+        android:layout_weight="0.12" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="0.10">
+
+
+        <EditText
+            android:hint="@string/numberHint"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="numberDecimal"
+            android:ems="10"
+            android:text="@string/numberPrompt"
+            android:id="@+id/numMoves" />
+    </LinearLayout>
+
+    <Button
+        android:text="Generate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Generatebutton"
+        style="@style/Widget.AppCompat.Button" />
+
+</LinearLayout>

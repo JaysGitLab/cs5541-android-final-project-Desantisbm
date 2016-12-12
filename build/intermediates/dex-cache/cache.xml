@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_e2b8f622f3710d4295db704d1a1877efc27121e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_c84462cb6f6aee268507072d31aa89aac80f6395\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_d737b399466f9b5aa44881189f092a858227364c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_255c2094f2aedcf8ab9fae019a201a8aa2091774\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.github.medyo\android-about-page\1.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d8a3cef611578892f5e00a85dc8520062fbe005">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.medyo-android-about-page-1.1.1_a857dbf4dffc5ec49c1f2e87e4f69d554e8f0ad2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_093516bd8e899d4ba2fac8e6c252d7a4407a83d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_60d3ff9c43d96d79cd7e27f2e78a79896416b2f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_0e37b779eeb6abfb330a29208a52d7b2dbccd8d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_c78ab0954115e26c40cf3732a199b5a5f45b5b04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e02a849bd65a3d700530058a91ed4a4b473aca42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bf75a4e2d4352d2a5475bc373a98faae58c9cd4">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3ff94c9f039ce3d5cafdf33dd94fd7299fef16b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_52d38a9bf55c1191be993342906cb2dc204430ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_69b333af259a0a64a38e3aa30c0f4db2af746210\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_a1641fb213056fc71bd486e0b22ebc57619d1002\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_de6d5302e411ac694fc10405c7a627aaa891946c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_45434b4945b82cd70f6facc2fa91f5f9c138824a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_3a08227dd81fac4bf778c8b90a3dda87ffd35bda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_c8d7f648188e5bc3c0fd61350b85695371467dd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_b5b1c2e58f152998284bd334cc22810562b43f82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_83902915bd77875dd86a1d361df153f9cfa5e0f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_dcf50b89752885b745ecc930c5e33ed0c7313afa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_a4d8b9f2b55b5d537fb31c7ad7b6f19d09ce7d3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_061dc2cfe40194c61ee761cd972d7be9b30d9756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_088a1e10193432c2a0e8c66cc9332d6b2ae82faa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_e8b152ed717d7d80f04782b74cb40d478461f334\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0a11055e0e6adbb424887ea4651e8766568b9da9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_01a02c94b2e067a36c24831e0cef25b1a5716739\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_2160008d30a167821df1d655b357698489bd487a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_f43a971d8b267ae7dd8320f826ded3af54b40c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_7c0ff7dcb39b3a392db30ed04d9acca7dabe1d1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_b9c3fa02c6caa92a3d0ee5618b660e4398ab041e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fc2b7878a11ac85f6899e82ac97cda225030a423">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_47fb8561098229cfad7c24b4a9dfe05c1603db44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_98e934d850113c4afda672620632b69747fae4cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_bb0c1566b62cb12b80da40b66f627458ded933c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_767c04fd0541d27eeb49d632d24f651ac066770c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_b922f4ecf4d430d7a23b7bac896ebddfa392a580\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_648901518744e22dc406923dab8769c1819eea57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_d88c7115a9de95a01a02ec88509bd2c781d53d44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_5a683c63e612e4db1fbc4ed3b88b0e86add39f94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_f2c03f5f92d61d21a1d709e9ae7abca2d881382e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_120247aab17c4d896b03d6228a2ecbf254a7412b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_ee99ab5b935f26017a2502bfbd10da3adbb9fd3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_d25b05faba697d074ceb4caab71f316f42593e0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_1fdb3ade90f6a5469ddfb92f11fd9a2f40321467\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_4c9e4178bde5b80d574e958e4d3027dd36f26df7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_fbd449712c370a58a6df84c0330c95329b461c0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_b28811595c5e7d6b42e924fdf5ed1be7df23c03d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_a88b03d440f221e2468b1ecee7b1c4fe861f0d50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_54933a91c60730b4311064a9c0ad45347c5fc964\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_f1c4b6999e10e6340812e0dd87ec46963e6ddf5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_9b819ba0593e623ae075f4cf0108c6044d773581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_5977d79505ddbd80361c681bab8f8cb748541dc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_dc40e8e37a4b6a87ead5a237726cf711412e60ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_295a6b4876ca1c950989f2a2654992cba38b1f99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_ed4da41c8c48d9adfa1a9b0eb0939fd75b500f39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_1d1cf3d7d977690c394e3fd2391e3f29c2b2681d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_f907adc95ac7bade0e2c598efea3bd0cc50e3bf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_4ecff24a9a6678b35dcc2bf1caa9d9ac31dcc89c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_e7d4d7cab32413ec7fb0825adfc5806cbf34b2ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_83df43ace13ad734771b95e55c79adebd009b819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_7aedba57955436b210997a71a4563b5738a0f365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_3db3c7a787f6103c519da40539d1ddfedf02ac70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_6f0cadde4c045ada1307c18f2894d9e450b58aa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_d502c5cac84ef6759e7e2e435df5782cdab4236b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_7923b4e0b4a8473868ce8dab16ac86888b832c88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_91a1991e1cb4b5b480cfd46364e45ea98e9b9bd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_6f972795454ad7ac282ee37034cd0e69f2a24e46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_3196765482ac562b2ee56180abde02053439976f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Broderick\Desktop\ASCABCapoeiraHUB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_764879e7c09c5c8e0a1ad26c8d440b242bba6320\classes.dex" />
+    </item>
+
+</items>
